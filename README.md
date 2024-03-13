@@ -7,4 +7,4 @@
 - 📫 How to reach me: pelo insta @eduardohcvm
 - 😄 Pronouns: ele/dele
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohcvm)](https://github.com/anuraghazra/github-readme-stats)
